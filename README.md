@@ -13,9 +13,11 @@
 * [廖学峰的教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
 
 ##作业(20160920)
-* 创建git账号
+* 创建github账号
 * follow 本账号
-* fork 本库
+* star/fork 本库
+* 安装git客户端
+* 将库pull到本地
 * 在根目录下创建以自己姓名命名+学号命名的目录
 * 在该目录下开发一个程序，实现用表单提交数据并存到文件中，并用另外一个文件显示存储的数据
-* 将程序push到github上，并发给我一个pull request
+* 将程序push到github上，并发送pull request
