@@ -11,6 +11,7 @@
 
 ##github
 * [廖学峰的教程](http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
+* https://git-scm.com/book/zh/v2
 
 ##作业(20160920)
 * 创建github账号
