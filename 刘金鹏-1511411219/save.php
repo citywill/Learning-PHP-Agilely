@@ -1,6 +1,7 @@
 <html>
 <head>
 <meta http-equiv="refresh" content="5;url=index.html">
+<title>保存留言</title>
 </head>
 <?php
 header("Content-type:text/html;charset=utf-8");

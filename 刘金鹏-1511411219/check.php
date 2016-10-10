@@ -1,3 +1,5 @@
+<html>
+<title>查看留言</title>
 <?php
 $str1 = "姓名:";
 $str2 = "邮箱:";
@@ -12,3 +14,4 @@ while (($row = fgetcsv($fh)) != false) {
 }
 ?>
 <a href = 'index.html'>继续留言</a>
+</html>
