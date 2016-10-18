@@ -1,7 +1,5 @@
----
-title:敏捷学习PHP（一）在windows环境下安装PHP 7
-image:src/lpa/setup-php-7-windows.jpg
----
+
+#敏捷学习PHP（一）在windows环境下安装PHP 7
 
 和在ubutntu直接apt-get相比，在windows下安装PHP还是稍显麻烦。大致步骤如下：
 
