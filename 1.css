@@ -1,0 +1,103 @@
+#bnr_pic{
+}
+
+#banner{
+	background: pink;
+}
+
+.headerText{
+	font-size: 30px;
+}
+
+.header
+{
+	margin: 0px;
+	padding: 30px;
+}
+
+.headerDis{
+	font-size: 15px;
+	color:red;
+}
+
+#left{
+	padding: 10px 50px 20px 50px;
+}
+
+#right{
+	border: 1px dashed black;
+	height: 600px;
+	padding: 10px;
+}
+
+#lefthead{
+	height: 40px;
+}
+
+.day{
+	padding: 20px 20px 10px 20px;
+	border:1px dashed black;
+	margin: 20px 0px 20px 0px;
+}
+
+.postDesc{
+	color:gray;
+	font-size: 10px;
+	padding: 0px 0px 0px 450px;
+}
+
+.dayTitle{
+	color: #A9A9A9;
+	font-size: 20px;
+}
+
+.postTitle
+{
+	padding: 10px;
+}
+
+.postTitle2
+{
+	font-size: 15px;
+	color:#00008B;
+	font-weight:bold;
+}
+
+.c_b_p_desc_readmore{
+	color: gray;
+}
+
+.postSeparator{
+	background: pink;
+	height: 5px;
+}
+
+.catListTitle{
+	margin: 10px 0px 10px 0px;
+}
+
+.hsize{
+	color:#708090;
+	font-size: 25px;
+	text-align:center;
+}
+
+#infor{
+	color:gray;
+	font-size: 20px;
+	padding: 10px 30px 0px 40px;
+}
+
+#search{
+	padding: 10px;
+}
+
+#biaoqian{
+	font-size: 20px;
+	padding: 10px 30px 0px 40px;
+}
+#footer{
+	margin: 50px 10px 10px 10px;
+	padding: 0px 0px 0px 100px;
+	color: #A9A9A9;
+}
