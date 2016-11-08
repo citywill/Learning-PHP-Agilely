@@ -1,0 +1,30 @@
+#div1{
+    font-size: 19pt;
+}
+
+#div2{
+	font-size: 17pt;
+	color:blue;
+}
+.div3{
+	font-size: 29pt;
+    color:red;}
+hr{
+     border:1px solid red;
+}
+.span1{
+	font-family: "Arial Black";
+    color: #F00;
+    text-align: right;
+}
+.span3{
+    font-size: 20px;
+    font-family: "Arial Black";
+}
+.ul1{
+    font-size:20px;
+	font-family:"Tahoma";
+	color:green;}
+	  body {
+	background-image:url(D://filefay/fay/pic/no.13.jpg);
+}
